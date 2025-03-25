@@ -1,2 +1,2 @@
 # ghostlyPDE_1D
-Numerical evolution of two coupled scalar fields with opposite-sign kinetic terms evolving in 1+1 dimensional spacetime. Based on the julia DifferentialEquations.jl package.
+Numerical evolution of two coupled scalar fields with opposite-sign kinetic terms evolving in 1+1 dimensional spacetime. Based on the julia DifferentialEquations.jl package. See, [25XX.XXXXX](https://arxiv.org/pdf/25XX.XXXXX) for the corresponding scientific publications. we ask you to please cite this article when re-using the code.
