@@ -1,0 +1,432 @@
+GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10/k=1/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763657
+  3.653319 seconds (3.57 M allocations: 360.139 MiB, 5.64% gc time, 101.89% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+  0.590631 seconds (744.27 k allocations: 456.458 MiB, 9.27% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174011
+  2.156705 seconds (1.48 M allocations: 1.505 GiB, 4.35% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+  5.050681 seconds (2.91 M allocations: 5.479 GiB, 4.85% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999979083589002
+ 17.371692 seconds (6.65 M allocations: 20.788 GiB, 5.91% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999994770895884
+ 56.814885 seconds (13.25 M allocations: 81.171 GiB, 3.99% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999998692723885
+216.531237 seconds (26.45 M allocations: 320.737 GiB, 2.09% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10/k=8/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890689
+  4.659035 seconds (3.57 M allocations: 360.139 MiB, 4.43% gc time, 112.13% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738112
+  0.715188 seconds (744.27 k allocations: 456.458 MiB, 9.98% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386036
+  1.786474 seconds (1.48 M allocations: 1.505 GiB, 5.68% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763658
+  4.332430 seconds (2.91 M allocations: 5.479 GiB, 5.85% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+ 15.718160 seconds (6.65 M allocations: 20.788 GiB, 6.60% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174012
+ 52.295090 seconds (13.25 M allocations: 81.171 GiB, 4.39% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+213.290234 seconds (26.45 M allocations: 320.737 GiB, 2.13% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10/k=32/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+  3.877397 seconds (3.57 M allocations: 360.137 MiB, 5.02% gc time, 90.81% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+  1.052454 seconds (744.27 k allocations: 456.458 MiB, 5.45% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890713
+  1.592674 seconds (1.48 M allocations: 1.505 GiB, 5.50% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738162
+  4.503278 seconds (2.91 M allocations: 5.479 GiB, 5.15% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386045
+ 16.299670 seconds (6.65 M allocations: 20.788 GiB, 6.26% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763671
+ 55.519947 seconds (13.25 M allocations: 81.171 GiB, 4.08% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.999866137909562
+208.740435 seconds (26.45 M allocations: 320.737 GiB, 2.17% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=1/k=1/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763657
+  4.949318 seconds (6.73 M allocations: 1.426 GiB, 5.46% gc time, 81.41% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+  5.426009 seconds (7.07 M allocations: 4.029 GiB, 5.73% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174011
+ 15.258851 seconds (14.37 M allocations: 14.223 GiB, 5.08% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+ 46.200336 seconds (28.70 M allocations: 53.190 GiB, 4.90% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999979083589002
+160.418149 seconds (66.02 M allocations: 204.730 GiB, 4.11% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999994770895884
+525.272721 seconds (131.98 M allocations: 805.456 GiB, 2.25% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999998692723885
+2197.826484 seconds (263.92 M allocations: 3.120 TiB, 1.51% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=1/k=8/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890689
+Terminating because one of the fields grew too large at time t = 20.935546875.
+  4.294360 seconds (5.43 M allocations: 1003.838 MiB, 5.02% gc time, 84.93% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738112
+Terminating because one of the fields grew too large at time t = 25.3603515625.
+  4.337886 seconds (5.43 M allocations: 3.097 GiB, 5.92% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386036
+Terminating because one of the fields grew too large at time t = 31.6103515625.
+ 13.969054 seconds (13.76 M allocations: 13.624 GiB, 5.44% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763658
+ 46.418007 seconds (28.70 M allocations: 53.190 GiB, 5.00% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+159.242038 seconds (66.02 M allocations: 204.730 GiB, 4.33% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174012
+531.316039 seconds (131.98 M allocations: 805.456 GiB, 2.25% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+2064.700563 seconds (263.92 M allocations: 3.120 TiB, 1.62% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence lost at time t=16.962
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=1/k=32/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+Terminating because one of the fields grew too large at time t = 16.810546875.
+  4.162641 seconds (4.99 M allocations: 847.877 MiB, 5.24% gc time, 95.36% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+Terminating because one of the fields grew too large at time t = 23.3095703125.
+  3.503017 seconds (4.99 M allocations: 2.846 GiB, 6.34% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890713
+Terminating because one of the fields grew too large at time t = 23.5625.
+ 10.643764 seconds (10.26 M allocations: 10.156 GiB, 5.31% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738162
+Terminating because one of the fields grew too large at time t = 28.3916015625.
+ 39.556479 seconds (24.69 M allocations: 45.763 GiB, 4.95% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386045
+144.990600 seconds (66.02 M allocations: 204.730 GiB, 4.60% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763671
+524.044572 seconds (131.98 M allocations: 805.456 GiB, 2.23% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.999866137909562
+Terminating because one of the fields grew too large at time t = 19.998779296875.
+1231.477094 seconds (159.94 M allocations: 1.891 TiB, 1.33% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence lost at time t=15.774
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10_m=10/k=1/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763657
+  4.833444 seconds (7.91 M allocations: 1.824 GiB, 5.69% gc time, 69.72% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+  6.389070 seconds (9.41 M allocations: 5.357 GiB, 6.30% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174011
+ 18.812612 seconds (19.15 M allocations: 18.933 GiB, 5.60% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+ 57.504587 seconds (38.25 M allocations: 70.861 GiB, 5.27% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999979083589002
+200.221281 seconds (88.00 M allocations: 272.857 GiB, 4.11% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999994770895884
+687.480661 seconds (175.95 M allocations: 1.049 TiB, 2.24% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999998692723885
+2874.328847 seconds (351.87 M allocations: 4.160 TiB, 4.50% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10_m=10/k=8/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890689
+  5.845514 seconds (7.91 M allocations: 1.824 GiB, 4.54% gc time, 57.74% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738112
+  6.451117 seconds (9.41 M allocations: 5.357 GiB, 6.33% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386036
+ 18.846617 seconds (19.15 M allocations: 18.933 GiB, 5.49% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763658
+ 58.091545 seconds (38.25 M allocations: 70.861 GiB, 5.20% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9998661379095618
+199.821674 seconds (88.00 M allocations: 272.857 GiB, 4.09% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999665339174012
+701.397091 seconds (175.95 M allocations: 1.049 TiB, 2.20% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9999916334443506
+2837.946424 seconds (351.87 M allocations: 4.160 TiB, 4.57% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence lost at time t=38.192
+Run finished.GKS: cannot open display - headless operation mode active
+[ Info: Saved animation to /home/held/juliaPDE/stableGhosts/v7_for_git/THANOS_TEMP2/lambda_22/02_frequency_dependence/lam=10_m=10/k=32/plots/animation_Nx=8192.mp4
+persistent random seed: 42
+current resolution: 128 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+  6.395340 seconds (7.91 M allocations: 1.824 GiB, 4.89% gc time, 59.55% compilation time)
+... terminated
+current resolution: 256 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.8660254037844577
+  6.636275 seconds (9.41 M allocations: 5.357 GiB, 6.20% gc time)
+... terminated
+current resolution: 512 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9659258262890713
+ 19.457546 seconds (19.15 M allocations: 18.933 GiB, 5.39% gc time)
+... terminated
+current resolution: 1024 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9914448613738162
+ 57.790939 seconds (38.25 M allocations: 70.861 GiB, 5.29% gc time)
+... terminated
+current resolution: 2048 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9978589232386045
+192.990360 seconds (88.00 M allocations: 272.857 GiB, 4.28% gc time)
+... terminated
+current resolution: 4096 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.9994645874763671
+710.724998 seconds (175.95 M allocations: 1.049 TiB, 2.17% gc time)
+... terminated
+current resolution: 8192 ... 
+	user-assigned no rescaling:
+		max |amplitude| phi before rescaling: 1.0
+		max |amplitude| chi before rescaling: 0.999866137909562
+2881.610629 seconds (351.87 M allocations: 4.160 TiB, 4.49% gc time)
+... terminated
+Output plot directory does not exist. Creating it ...
+Convergence kept at all times.
+Run finished.
