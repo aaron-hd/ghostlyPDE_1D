@@ -38,9 +38,7 @@ function hamiltonian_density(fields_at_t, p)
             + mphi2 * y0[idx]^2 / 2 
             + sigma * mchi2 * y2[idx]^2 / 2 
             # interactions
-            + lambdaGhost * y0[idx]^3 * y2[idx]^3
-            + lambdaSelf * y0[idx]^8 
-            + sigma * lambdaSelf * y2[idx]^8
+            + lambdaGhost * y0[idx]^4 * y2[idx]^2
         )
     end
     ham
@@ -67,8 +65,6 @@ function hamiltonian_phi(fields_at_t, p)
             + 1//2 * first_derivative(y0, idx, dx)^2
             # mass phi
             + mphi2 * y0[idx]^2 / 2 
-            # self-interaction
-            + lambdaSelf * y0[idx]^8 
         )
     end
     hamphi
@@ -95,8 +91,6 @@ function hamiltonian_chi(fields_at_t, p)
             + sigma * 1//2 * first_derivative(y2, idx, dx)^2
             # mass phi
             + sigma * mchi2 * y2[idx]^2 / 2 
-            # self-interactions
-            + sigma * lambdaSelf * y2[idx]^8
         )
     end
     hamchi
@@ -110,4 +104,5 @@ function nintegrate_simps(y::Vector, h::Number)
     s = - sum(y[1:2:n] + 4*y[2:2:n] + y[3:2:n+1])
     return h/3 * s
 end;
+
 
